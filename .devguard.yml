@@ -1,0 +1,14 @@
+ai_enabled: false
+ignore_dirs:
+  - ".git"
+  - "node_modules"
+  - "venv"
+  - ".env"
+  - "__pycache__"
+  - "devguard"  # Avoid self-scanning inception
+ignore_extensions:
+  - ".pyc"
+  - ".pdf"
+  - ".jpg"
+  - ".png"
+  - ".zip"

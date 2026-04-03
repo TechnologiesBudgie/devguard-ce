@@ -1,0 +1,5 @@
+click>=8.1.7
+textual>=0.52.1
+PySide6>=6.6.2
+pyyaml>=6.0.1
+ollama>=0.1.7
