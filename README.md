@@ -69,4 +69,4 @@ python run.py ai enable
 The scanner's behavior is managed via `.devguard.yml`. To ignore specific false positives within the source code, append the `# nosec` comment to the end of the relevant line.
 
 ---
-**Released under the MIT License.**
+**Released under the MIT and Apache 2.0 License.**
