@@ -19,5 +19,5 @@ jobs:
         with:
           url: https://codeberg.org/TechnologiesBudgie/devguard-ce.git
           username: Infomanraf
-          password: ${{ secrets.COBAGRD }}
+          password: ${{ secrets.COBARGD }}
           private: true
