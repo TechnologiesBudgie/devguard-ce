@@ -70,3 +70,4 @@ The scanner's behavior is managed via `.devguard.yml`. To ignore specific false 
 
 ---
 **Released under the MIT and Apache 2.0 License.**
+**Provided AS-IS and without ANY guarantee.**
