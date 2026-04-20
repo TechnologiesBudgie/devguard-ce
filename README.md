@@ -1,8 +1,10 @@
 # DevGuard Community Edition
 ### Open Source Code Analysis and Security Auditing
-
+  
 ---
-
+*This software comes with ABSOLUTELY NO WARRANTY, to the extent permitted by applicable law.*
+---
+  
 ## 1. Overview
 DevGuard Community Edition is a high-performance, offline-first security engine designed to identify hardcoded secrets, unsafe code patterns, and infrastructure misconfigurations. By prioritizing local execution, DevGuard ensures that sensitive code fragments never leave your local environment.
 
