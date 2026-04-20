@@ -2,7 +2,9 @@
 ### Open Source Code Analysis and Security Auditing
   
 ---
+  
 *This software comes with ABSOLUTELY NO WARRANTY, to the extent permitted by applicable law.*
+  
 ---
   
 ## 1. Overview
